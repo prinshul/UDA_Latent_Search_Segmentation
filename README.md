@@ -13,7 +13,7 @@ pip install numpy==1.26.4 opencv-python-headless==4.10.0.84
 
 ## Data setup
 ```
-cd synthia_cityscpaes_deeplabv2_resnet101
+cd synthia_cityscapes_deeplabv2_resnet101
 Download SYNTHIA-RAND-CITYSCAPES from http://synthia-dataset.cvc.uab.cat/SYNTHIA_RAND_CITYSCAPES.rar
 unrar x SYNTHIA_RAND_CITYSCAPES.rar 'RAND_CITYSCAPES/RGB/*' 'RAND_CITYSCAPES/GT/LABELS/*' synthia/
 Download leftImg8bit_trainvaltest.zip and gtFine_trainvaltest.zip from https://www.cityscapes-dataset.com/downloads/
