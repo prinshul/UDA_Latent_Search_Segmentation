@@ -3,7 +3,7 @@
 ## Setup
 
 ```
-git clone https://github.com/prinshul/Latent_Search_UDA_Segmentation.git
+git clone https://github.com/prinshul/UDA_Latent_Search_Segmentation.git
 cd UDA_Latent_Search_Segmentation
 conda create -y -n ltp python=3.10
 conda activate ltp
